@@ -6,14 +6,18 @@
   "dependencies": {
     "@nativescript/core": "~9.0.0",
     "@nativescript/theme": "^3.1.0",
-    "nativescript-vue": "~2.9.3"
+    "nativescript-vue": "2.9.3",
+    "vue-loader": "15.11.1",
+    "vue-template-compiler": "2.6.12"
   },
   "devDependencies": {
+    "@nativescript/android": "9.0.2",
+    "@nativescript/ios": "9.0.3",
     "@nativescript/types": "~9.0.0",
-    "@nativescript/webpack": "~5.0.25",
-    "@types/node": "~17.0.21",
-    "nativescript-vue-template-compiler": "~2.9.3",
     "typescript": "~5.4.0",
-    "vue": "~2.6.12"
+    "@types/node": "~17.0.21",
+    "@nativescript/webpack": "5.0.31",
+"nativescript-vue-template-compiler": "2.9.3",
+"vue": "2.6.12"
   }
 }
